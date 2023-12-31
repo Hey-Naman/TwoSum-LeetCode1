@@ -55,3 +55,7 @@ Enter your 3 element of array: 4
 Enter your 4 element of array: 5
 You want the sum of: 9
 The number is found on the index 2 and 3
+
+## contribution!
+
+- feel free to make pull requests if you have some other approch using brute force!
